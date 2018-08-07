@@ -26,6 +26,3 @@ export const deleteItem = id => {
 }
 
 
-// export const clearItem = item => {
-
-// }
